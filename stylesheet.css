@@ -1,2 +1,9 @@
-
-ol {list-style-type: decimal;}
+.title{
+    font-size: 30px
+}
+ol {
+    list-style-type: decimal;
+}
+.detail ol{
+    list-style-type: lower-roman;
+}
